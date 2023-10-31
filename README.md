@@ -1,10 +1,11 @@
 ### Hi there 👋
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&color=timeAutotype&type=cylinder&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&color=timeAuto&type=cylinder&animation=fadeIn)
 
-
+## 🔨 Once I've used 🔨
+</div>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"> 
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-squaree&logo=C%2B%2B&logoColor=white">
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> 
 
 
 
