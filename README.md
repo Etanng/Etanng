@@ -1,11 +1,11 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?text=Hello%World!&color=timeAuto&type=cylinder&animation=fadeIn)
 
-## 🔨 Once I've used 🔨
+<h3 align="center">📚 Tech Stack 📚</h3>
+<p align="center">
 </div>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-squaree&logo=C%2B%2B&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> 
+   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-squaree&logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"> 
 
 
 
